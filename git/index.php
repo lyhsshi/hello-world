@@ -5,7 +5,6 @@
     </head>
     <body>
         <?php
-            echo 'Hello World!';
             echo '<br>Alteração AH';
         ?>
     </body>
